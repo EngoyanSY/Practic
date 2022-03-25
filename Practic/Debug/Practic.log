@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\C++ Project\Practic\Practic\main.cpp(34,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Project\Practic\Practic\main.cpp(41,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Project\Practic\Practic\main.cpp(49,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Project\Practic\Practic\main.cpp(59,26): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\C++ Project\Practic\Practic\main.cpp(62,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Project\Practic\Practic\main.cpp(65,34): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Project\Practic\Practic\main.cpp(73,34): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++ Project\Practic\Practic\main.cpp(94,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Practic.vcxproj -> D:\C++ Project\Practic\Debug\Practic.exe
